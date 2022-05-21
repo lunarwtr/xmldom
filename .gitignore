@@ -6,3 +6,4 @@
 /test/error/reported.json
 
 docs/*.jar
+/.vscode
