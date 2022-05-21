@@ -1,5 +1,5 @@
 {
-  "name": "@lunarwtr/xmldom",
+  "name": "@lunarwater/xmldom",
   "version": "0.8.2",
   "description": "A pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module.",
   "keywords": [

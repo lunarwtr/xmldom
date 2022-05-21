@@ -1,6 +1,6 @@
 /// <reference lib="dom" />
 
-declare module "@lunarwtr/xmldom" {
+declare module "@lunarwater/xmldom" {
   var DOMParser: DOMParserStatic;
   var XMLSerializer: XMLSerializerStatic;
   var DOMImplementation: DOMImplementationStatic;
